@@ -105,7 +105,7 @@ page_bg_img = """
 </style>
 """
 st.set_page_config(
-    page_title = 'Reimagine AI',
+    page_title = 'Instacraft',
     page_icon = '🖼️'
 )
 st.markdown(page_bg_img, unsafe_allow_html=True)
